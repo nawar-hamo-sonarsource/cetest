@@ -7,6 +7,16 @@
     <list default="true" id="9a2e3936-a44e-4f7d-864f-cc775734b58a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cetest-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/cetest-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ir/java/ir_0.ir" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ir/java/ir_0.ir" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ir/java/ir_1.ir" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ir/java/ir_1.ir" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ir/java/ir_2.ir" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ir/java/ir_2.ir" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ir/java/ir_3.ir" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ir/java/ir_3.ir" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ir/java/ir_6.ir" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ir/java/ir_6.ir" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/report-task.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/report-task.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_0.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_0.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_1.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_1.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_2.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_2.proto" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,12 +35,12 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
+}</component>
   <component name="Push.Settings">
     <force-push-targets>
       <force-push-target remote-path="origin" branch="main" />
