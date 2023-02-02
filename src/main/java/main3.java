@@ -1,3 +1,5 @@
+import java.lang.System;
+
 public class main3 {
  public boolean b;
  public java.lang.String hi;
@@ -9,6 +11,32 @@ public class main3 {
   }
   public boolean test(String s) {
     if (s == "test1") return true;
+    System.out.println("test");
+    System.out.println("test");
+    System.out.println("test");
+    System.out.println("test");
+    System.out.println("test");
+    System.out.println("test");
+    System.out.println("test");
+    System.out.println("test");
+    System.out.println("test");
+    System.out.println("test");
+    System.out.println("test");
+    System.out.println("test");
+    System.out.println("test");
+    System.out.println("test");
+    System.out.println("test");
+    System.out.println("test");
+    System.out.println("test");
+    System.out.println("test");
+    System.out.println("test");
+    System.out.println("test");
+    System.out.println("test");
+    System.out.println("test");
+    System.out.println("test");
+    System.out.println("test");
+    System.out.println("test");
+    System.out.println("test");
     return false;
 
   }

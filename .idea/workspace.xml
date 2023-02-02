@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a2e3936-a44e-4f7d-864f-cc775734b58a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/cetest-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/cetest-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/sonar/ir/java/ir_0.ir" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ir/java/ir_0.ir" afterDir="false" />
@@ -12,15 +13,18 @@
       <change beforePath="$PROJECT_DIR$/target/sonar/ir/java/ir_2.ir" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ir/java/ir_2.ir" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/sonar/ir/java/ir_3.ir" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ir/java/ir_3.ir" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/sonar/ir/java/ir_6.ir" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ir/java/ir_6.ir" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/sonar/report-task.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/report-task.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_0.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_0.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_1.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_1.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_2.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_2.proto" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Pull.Settings">
+    <option name="OPTIONS">
+      <set>
+        <option value="REBASE" />
+      </set>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
