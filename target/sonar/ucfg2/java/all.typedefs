@@ -16,8 +16,9 @@ getClass(),java.lang.Object#getClass()Ljava/lang/Class;5
 notifyAll()java.lang.Object#notifyAll()V"
 wait()java.lang.Object#wait()V*
 
-hashCode()java.lang.Object#hashCode()I²
+hashCode()java.lang.Object#hashCode()IÏ
 main3java.lang.Object
+test2(Z)main3#test2(Z)Z
 <init>()main3#<init>()V=
 main([Ljava/lang/String;) main3#main([Ljava/lang/String;)V;
 test(Ljava/lang/String;)main3#test(Ljava/lang/String;)Z(
@@ -97,12 +98,14 @@ println(C)java.io.PrintStream#println(C)VK
 1<init>(Ljava/io/OutputStream;ZLjava/lang/String;)Fjava.io.PrintStream#<init>(Ljava/io/OutputStream;ZLjava/lang/String;)VU
 <init>(Ljava/io/OutputStream;)3java.io.PrintStream#<init>(Ljava/io/OutputStream;)V/
 println([C) java.io.PrintStream#println([C)V‹
-9<init>(ZLjava/nio/charset/Charset;Ljava/io/OutputStream;)Njava.io.PrintStream#<init>(ZLjava/nio/charset/Charset;Ljava/io/OutputStream;)V®
+9<init>(ZLjava/nio/charset/Charset;Ljava/io/OutputStream;)Njava.io.PrintStream#<init>(ZLjava/nio/charset/Charset;Ljava/io/OutputStream;)VÊ
 mainjava.lang.Object
+test2(Z)main#test2(Z)Z
 <init>()main#<init>()V<
 main([Ljava/lang/String;)main#main([Ljava/lang/String;)V:
-test(Ljava/lang/String;)main#test(Ljava/lang/String;)Z²
+test(Ljava/lang/String;)main#test(Ljava/lang/String;)ZÏ
 main2java.lang.Object
+test2(Z)main2#test2(Z)Z
 <init>()main2#<init>()V=
 main([Ljava/lang/String;) main2#main([Ljava/lang/String;)V;
 test(Ljava/lang/String;)main2#test(Ljava/lang/String;)Z
