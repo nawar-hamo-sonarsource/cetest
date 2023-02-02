@@ -2,6 +2,7 @@ organization=default-organization
 projectKey=cetest1
 serverUrl=https://nh.sc.eu.eu.ngrok.io
 serverVersion=8.0-SNAPSHOT
-dashboardUrl=https://nh.sc.eu.eu.ngrok.io/dashboard?id=cetest1
-ceTaskId=AYYRh0FyRsZlfX1cyPcp
-ceTaskUrl=https://nh.sc.eu.eu.ngrok.io/api/ce/task?id=AYYRh0FyRsZlfX1cyPcp
+branch=test3
+dashboardUrl=https://nh.sc.eu.eu.ngrok.io/dashboard?id=cetest1&branch=test3&resolved=false
+ceTaskId=AYYRkBiuRsZlfX1cyPcu
+ceTaskUrl=https://nh.sc.eu.eu.ngrok.io/api/ce/task?id=AYYRkBiuRsZlfX1cyPcu

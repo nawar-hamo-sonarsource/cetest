@@ -1,5 +1,6 @@
 public class main3 {
  public boolean b;
+ public java.lang.String hi;
   public static void main(String[] args) {
 
     int x;
