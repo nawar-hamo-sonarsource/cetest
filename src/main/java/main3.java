@@ -1,31 +1,10 @@
 public class main3 {
-
+ public boolean b;
+ public java.lang.String hi;
   public static void main(String[] args) {
 
-    System.out.println("main");
-    System.out.println("main");
-    System.out.println("main");
-    System.out.println("main");
-    System.out.println("main");
-    System.out.println("main");
-    System.out.println("main");
-    System.out.println("main");
-    System.out.println("main");
-    System.out.println("main");
-    System.out.println("main");
-    System.out.println("main");
-    System.out.println("main");
-    System.out.println("main");
-    System.out.println("main");
-    System.out.println("main");
-    System.out.println("main");
-    System.out.println("main");
-    System.out.println("main");
-    System.out.println("main");
-    System.out.println("main");
-    System.out.println("main");
-    System.out.println("main");
-    System.out.println("main");
+    int x;
+
     System.out.println("main");
   }
   public boolean test(String s) {
