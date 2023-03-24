@@ -37,7 +37,6 @@ public class main {
     System.out.println("main");
     System.out.println("main");
     System.out.println("main");
-    System.out.println("main");
  }
   public boolean test(String s) {
     if (s == "test1") return true;
